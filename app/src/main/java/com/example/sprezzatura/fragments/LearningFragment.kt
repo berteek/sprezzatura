@@ -7,12 +7,17 @@ import android.view.View
 import android.view.ViewGroup
 import com.example.sprezzatura.R
 
-class ProfileFragment : Fragment() {
+class LearningFragment : Fragment() {
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+    }
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        return inflater.inflate(R.layout.activity_pro_file, container, false)
+        return inflater.inflate(R.layout.activity_training, container, false)
     }
+
 }

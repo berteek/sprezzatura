@@ -20,4 +20,8 @@
         android:name="com.example.sprezzatura.fragments.ProfileFragment"
         android:label="ProfileFragment"
         tools:layout="@layout/fragment_profile"/>
+    <fragment
+        android:id="@+id/learningFragment"
+        android:name="com.example.sprezzatura.fragments.LearningFragment"
+        android:label="LearningFragment" />
 </navigation>

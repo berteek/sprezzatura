@@ -6,8 +6,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.sprezzatura.Event
-import com.example.sprezzatura.EventAdapter
+import com.example.sprezzatura.event.Event
+import com.example.sprezzatura.event.EventAdapter
 import com.example.sprezzatura.R
 import com.example.sprezzatura.databinding.FragmentHomeBinding
 
