@@ -27,6 +27,6 @@ https://vk.com/video123561882_456239579
 РАЗРАБОТЧИКИ
 
 <h4>Веселов Илья капитан https://t.me/@blurred_blue </h4>
-<h4>Болотаев Егор UI дизайнер https://t.me/@blurred_blue </h4>
+<h4>Болотаев Егор UI дизайнер https://t.me/@FaeryD </h4>
 <h4>Мерзин Альберт fullstack https://t.me/@berteek </h4>
 
