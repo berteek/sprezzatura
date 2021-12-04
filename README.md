@@ -11,11 +11,15 @@
 <ul>
 	<li>Android: Kotlin</li>
 	<li>Git</li>
- </ul>
+</ul>
+
+СРЕДА ЗАПУСКА
+------------
+Требуется установленная IDE Android Studio
 
 ВИДЕОДЕМОНСТРАЦИЯ
 ------------
-https://vk.com/video123561882_456239580
+https://drive.google.com/file/d/1bUaeSJr8YbexTr3uioj12wcIfT7dHWWo/view?usp=sharing
 ------------
 
 
