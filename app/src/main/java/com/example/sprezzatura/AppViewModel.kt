@@ -10,6 +10,7 @@ import javax.inject.Inject
 class AppViewModel @Inject constructor(private val guider: Guider) : ViewModel(), GuiderAdapter.OnItemClickListener {
 
     private var currentNode = guider.getCurrentNode()
+    var flag = true
 
     fun getCurrentNode(): Guider.TreeNode {
         return guider.getCurrentNode()

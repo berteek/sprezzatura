@@ -48,6 +48,10 @@ class OtherFragment : Fragment(), GuiderAdapter.OnItemClickListener {
             returnBackView.setOnClickListener {
                 viewModel.returnToHomeNode()
                 addNode(viewModel.getCurrentNode())
+                if (viewModel.flag) {
+                    Toast.makeText(this@OtherFragment.context, "Наставник прислал вам сообщение!", Toast.LENGTH_SHORT).show()
+                    viewModel.flag = false
+                }
             }
         }
     }
