@@ -19,7 +19,7 @@
 
 ВИДЕОДЕМОНСТРАЦИЯ
 ------------
-https://vk.com/video123561882_456239582
+https://drive.google.com/file/d/1bUaeSJr8YbexTr3uioj12wcIfT7dHWWo/view?usp=sharing
 ------------
 
 
