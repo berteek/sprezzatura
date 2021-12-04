@@ -30,9 +30,9 @@ class HomeFragment : Fragment() {
         binding.apply {
             recyclerView.layoutManager = LinearLayoutManager(this@HomeFragment.context)
             recyclerView.adapter = adapter
-            adapter.addEvent(Event("hiiiiiiiiiiiii"))
-            adapter.addEvent(Event("cat died!!!!!"))
-            adapter.addEvent(Event("OMG CAT ALIVE!!!!!"))
+            adapter.addEvent(Event("ПСБ нарастил прибыль более чем двукратно - до 38,7 млрд рублей по МСФО за 9 месяцев 2021"))
+            adapter.addEvent(Event("Чистая прибыль ПСБ по РСБУ за девять месяцев выросла почти вдвое – до 30 млрд рублей"))
+            adapter.addEvent(Event("S&P подтвердило высокий кредитный рейтинг ПСБ на уровне BB, пересмотрев прогноз на позитивный"))
         }
     }
 

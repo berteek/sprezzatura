@@ -5,7 +5,8 @@
     android:layout_height="wrap_content"
     android:minHeight="45dp"
     android:layout_margin="10dp"
-    android:background="@drawable/guider_button_drawable">
+    android:background="#673AB7"
+    android:id="@+id/guiderButtonLayout">
 
     <TextView
         android:id="@+id/textView"
@@ -15,7 +16,7 @@
         android:paddingRight="10dp"
         android:text="placeholder"
         android:textAlignment="center"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
